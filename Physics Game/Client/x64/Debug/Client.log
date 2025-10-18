@@ -1,0 +1,12 @@
+﻿  Box.cpp
+  Circle.cpp
+  CustomDebugDraw.cpp
+D:\Semester 2 Home Assignments\Duncan_Aquilina_DGD6.1_GM1\Task2\Client\CustomDebugDraw.cpp(97,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Semester 2 Home Assignments\Duncan_Aquilina_DGD6.1_GM1\Task2\Client\CustomDebugDraw.cpp(97,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+  main.cpp
+  TexturedBox.cpp
+  TexturedCircle.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Client.vcxproj -> D:\Semester 2 Home Assignments\Duncan_Aquilina_DGD6.1_GM1\Task2\x64\Debug\Client.exe
